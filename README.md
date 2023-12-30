@@ -1,2 +1,2 @@
 # js-mini-projects
-Here I will uploads basic or intermidiate js projects
+Here I will upload basic or intermidiate js projects
